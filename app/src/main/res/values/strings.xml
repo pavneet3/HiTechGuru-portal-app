@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HiTech Guru</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="courses">
+        <item>--Select A Course--</item>
+        <item>Android</item>
+        <item>PHP</item>
+        <item>ASP.NET</item>
+        <item>CRM</item>
+        <item>Salesforce</item>
+        <item>Angular JS</item>
+
+
+    </string-array>
+</resources>
